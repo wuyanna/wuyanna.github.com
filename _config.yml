@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://wuyanna.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 娜娜小窝
+subtitle: 在房间里看世界
+author: Yanna
 simple_search: http://google.com/search
 description:
 
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: yanna
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
