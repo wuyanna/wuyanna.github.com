@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrldata name="aaaaaaaaa">
+<entry name="StatementOfFinancialPositionAbstract">
+<entry name="AllowanceForDoubtfulAccountsReceivableCurrent" order="10.0">
+</entry>
+<entry name="StatementTable" order="10.0">
+</entry>
+<entry name="AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment" order="20.0">
+</entry>
+<entry name="PreferredStockParOrStatedValuePerShare" order="30.0">
+</entry>
+<entry name="PreferredStockSharesAuthorized" order="40.0">
+</entry>
+<entry name="PreferredStockSharesIssued" order="50.0">
+</entry>
+<entry name="CommonStockParOrStatedValuePerShare" order="60.0">
+</entry>
+<entry name="CommonStockSharesAuthorized" order="70.0">
+</entry>
+<entry name="CommonStockSharesIssued" order="80.0">
+</entry>
+<entry name="TreasuryStockShares" order="90.0">
+</entry>
+</entry>
+<entry name="DocumentAndEntityInformationAbstract" color="red">
+<entry name="EntityRegistrantName_2" order="10.0">
+</entry>
+<entry name="EntityCentralIndexKey_2" order="20.0">
+</entry>
+<entry name="DocumentType_2" order="30.0">
+</entry>
+<entry name="DocumentPeriodEndDate_2" order="40.0">
+</entry>
+<entry name="AmendmentFlag_2" order="50.0">
+</entry>
+<entry name="AmendmentDescription_2" order="60.0">
+</entry>
+<entry name="CurrentFiscalYearEndDate_2" order="70.0">
+</entry>
+<entry name="EntityWellKnownSeasonedIssuer_2" order="80.0">
+</entry>
+<entry name="EntityVoluntaryFilers_2" order="90.0">
+</entry>
+<entry name="EntityCurrentReportingStatus_2" order="100.0">
+</entry>
+<entry name="EntityFilerCategory_2" order="110.0">
+</entry>
+<entry name="EntityPublicFloat_2" order="120.0">
+</entry>
+<entry name="EntityCommonStockSharesOutstanding_2" order="130.0">
+</entry>
+<entry name="DocumentFiscalYearFocus" order="140.0">
+</entry>
+<entry name="DocumentFiscalPeriodFocus" order="150.0">
+</entry>
+</entry>
+<entry name="BasisOfPresentationDisclosureAbstract" color="red">
+<entry name="BasisOfPresentationAndAdoptionOfAccountingStandards" color="red" order="10.0">
+</entry>
+</entry>
+<entry name="AccountingForStockBasedCompensationDisclosureAbstract" color="red">
+<entry name="DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="RevenueRecognitionDisclosureAbstract" color="red">
+<entry name="RevenueRecognitionPolicyTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="InventoryDisclosureAbstract" color="red">
+<entry name="InventoryDisclosureTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="SupplementalCashFlowInformationDisclosureAbstract" color="red">
+<entry name="CashFlowSupplementalDisclosuresTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="ComprehensiveIncomeDisclosureAbstract" color="red">
+<entry name="ComprehensiveIncomeNoteTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="FinancingArrangementsDisclosureAbstract" color="red">
+<entry name="FinancingArrangementsAndAccountingChangesTextBlock" color="red" order="10.0">
+</entry>
+</entry>
+<entry name="EarningsPerShareDisclosureAbstract" color="red">
+<entry name="EarningsPerShareTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="AircraftPortfolioDisclosureAbstract" color="red">
+<entry name="AircraftPortfolioTextBlock" color="red" order="10.0">
+</entry>
+</entry>
+<entry name="DiscontinuedOperationsDisclosureAbstract" color="red">
+<entry name="DisposalGroupsIncludingDiscontinuedOperationsDisclosureTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="BusinessSegmentInformationDisclosureAbstract" color="red">
+<entry name="SegmentReportingDisclosureTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="AcquisitionsDisclosureAbstract" color="red">
+<entry name="BusinessCombinationDisclosureTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="SubsequentEventAbstract" color="red">
+<entry name="ScheduleOfSubsequentEventsTextBlock" order="10.0">
+</entry>
+</entry>
+<entry name="StatementOfStockholdersEquityAbstract">
+<entry name="StatementTable" order="10.0">
+</entry>
+</entry>
+<entry name="IncomeStatementAbstract">
+<entry name="StatementTable" order="10.0">
+</entry>
+</entry>
+<entry name="StatementOfCashFlowsAbstract">
+<entry name="StatementTable" order="10.0">
+</entry>
+</entry>
+<entry name="StatementLineItems">
+<entry name="AssetsAbstract" order="10.0">
+<entry name="AssetsCurrentAbstract" order="10.0">
+<entry name="CashAndCashEquivalentsAtCarryingValue" order="10.0">
+</entry>
+<entry name="AccountsReceivableNetCurrent" order="20.0">
+</entry>
+<entry name="InventoryNet" order="30.0">
+</entry>
+<entry name="EquipmentOnOrAvailableForShortTermLease" color="red" order="40.0">
+</entry>
+<entry name="OtherAssetsCurrent" order="50.0">
+</entry>
+<entry name="DeferredTaxAssetsNetCurrent" order="60.0">
+</entry>
+<entry name="AssetsCurrent" order="70.0">
+</entry>
+</entry>
+<entry name="PropertyPlantAndEquipmentNet" order="20.0">
+</entry>
+<entry name="AssetsNoncurrentAbstract" order="30.0">
+<entry name="GoodwillAndOtherIntangibleAssetsNet" color="red" order="10.0">
+</entry>
+<entry name="EquipmentOnLongTermLease" color="red" order="20.0">
+</entry>
+<entry name="InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures" order="30.0">
+</entry>
+<entry name="OtherAssetsNoncurrent" order="40.0">
+</entry>
+<entry name="AssetsNoncurrent" order="50.0">
+</entry>
+</entry>
+<entry name="Assets" order="40.0">
+</entry>
+</entry>
+<entry name="IncreaseDecreaseInStockholdersEquityRollForward" order="10.0">
+<entry name="StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest" order="10.0">
+</entry>
+<entry name="ProfitLoss" order="20.0">
+</entry>
+<entry name="StockIssuedDuringPeriodValueShareBasedCompensation" order="30.0">
+</entry>
+<entry name="AdjustmentsToAdditionalPaidInCapitalTaxEffectFromShareBasedCompensation" order="40.0">
+</entry>
+<entry name="StockIssuedDuringPeriodValueRestrictedStockAwardNetOfForfeitures" order="50.0">
+</entry>
+<entry name="StockIssuedDuringPeriodValueTreasuryStockReissued" order="60.0">
+</entry>
+<entry name="BondHedgeAndWarrantActivity" color="red" order="70.0">
+</entry>
+<entry name="EquityPortionOfBondRepurchase" color="red" order="80.0">
+</entry>
+<entry name="OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax" order="90.0">
+</entry>
+<entry name="StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest_2" order="100.0">
+</entry>
+<entry name="StockholdersEquityPeriodIncreaseDecrease" order="110.0">
+</entry>
+<entry name="OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax" order="8000.0">
+</entry>
+<entry name="StockholdersEquityIncludingPortionAttributableToNoncontrollingInterestAsPreviouslyReported" color="red" order="8010.0">
+</entry>
+<entry name="AdoptionOfConvertibleDebtAccountingStandard" color="red" order="8020.0">
+</entry>
+<entry name="MinorityInterestIncreaseFromStockIssuance" order="8030.0">
+</entry>
+<entry name="StockholdersEquityIncludingPortionAttributableToNoncontrollingInterestAsPreviouslyReported_2" color="red" order="8040.0">
+</entry>
+</entry>
+<entry name="NetCashProvidedByUsedInOperatingActivitiesAbstract" order="10.0">
+<entry name="ProfitLoss" order="10.0">
+</entry>
+<entry name="AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesAbstract" order="20.0">
+<entry name="DepreciationDepletionAndAmortization" order="10.0">
+</entry>
+<entry name="AmortizationOfDebtDiscountPremium" order="20.0">
+</entry>
+<entry name="ShareBasedCompensation" order="30.0">
+</entry>
+<entry name="DeferredIncomeTaxExpenseBenefit" order="40.0">
+</entry>
+<entry name="ExcessTaxBenefitFromShareBasedCompensationOperatingActivities" order="50.0">
+</entry>
+<entry name="GainsLossesOnExtinguishmentOfDebt" order="60.0">
+</entry>
+<entry name="GainLossOnSaleOfInvestments" order="70.0">
+</entry>
+<entry name="IncomeLossFromEquityMethodInvestments" order="80.0">
+</entry>
+<entry name="IncreaseDecreaseInOperatingCapitalAbstract" order="90.0">
+<entry name="IncreaseDecreaseInAccountsAndNotesReceivable" order="10.0">
+</entry>
+<entry name="IncreaseDecreaseInInventories" order="20.0">
+</entry>
+<entry name="IncreaseDecreaseInEquipmentOnOrAvailableForShortTermLease" color="red" order="30.0">
+</entry>
+<entry name="IncreaseDecreaseInEquipmentOnLongTermLease" color="red" order="40.0">
+</entry>
+<entry name="IncreaseDecreaseInAccountsPayable" order="50.0">
+</entry>
+<entry name="IncreaseDecreaseInAccruedLiabilitiesAndTaxesOnIncome" color="red" order="60.0">
+</entry>
+<entry name="IncreaseDecreaseInOtherOperatingCapitalNet" order="70.0">
+</entry>
+<entry name="IncreaseDecreaseInOtherOperatingLiabilities" order="8000.0">
+</entry>
+</entry>
+<entry name="AssetImpairmentCharges" order="8000.0">
+</entry>
+<entry name="DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax" order="8010.0">
+</entry>
+</entry>
+<entry name="NetCashProvidedByUsedInOperatingActivities" order="30.0">
+</entry>
+</entry>
+<entry name="SalesRevenueNetAbstract" order="10.0">
+<entry name="SalesRevenueGoodsNet" order="10.0">
+</entry>
+<entry name="SalesRevenueServicesNet" order="20.0">
+</entry>
+<entry name="SalesRevenueNet" order="30.0">
+</entry>
+<entry name="OperatingLeasesIncomeStatementLeaseRevenue" order="8000.0">
+</entry>
+</entry>
+<entry name="CostsAndExpensesAbstract" order="20.0">
+<entry name="CostOfGoodsSold" order="10.0">
+</entry>
+<entry name="CostOfServices" order="20.0">
+</entry>
+<entry name="SellingGeneralAndAdministrativeExpense" order="30.0">
+</entry>
+<entry name="CostsAndExpenses" order="40.0">
+</entry>
+<entry name="CostOfLeases" color="red" order="8000.0">
+</entry>
+<entry name="AssetImpairmentCharges" order="8010.0">
+</entry>
+</entry>
+<entry name="LiabilitiesAndStockholdersEquityAbstract" order="20.0">
+<entry name="LiabilitiesCurrentAbstract" order="10.0">
+<entry name="ShortTermBorrowings" order="10.0">
+</entry>
+<entry name="LongTermDebtCurrent" order="20.0">
+</entry>
+<entry name="NonrecourseLongTermDebtCurrent" color="red" order="30.0">
+</entry>
+<entry name="CapitalLeaseObligationsCurrent" order="40.0">
+</entry>
+<entry name="AccountsPayableCurrent" order="50.0">
+</entry>
+<entry name="AccruedLiabilitiesCurrent" order="60.0">
+</entry>
+<entry name="LiabilitiesCurrent" order="70.0">
+</entry>
+</entry>
+<entry name="LongTermDebtNoncurrent" order="20.0">
+</entry>
+<entry name="NonrecourseLongTermDebtNoncurrent" color="red" order="30.0">
+</entry>
+<entry name="CapitalLeaseObligationsNoncurrent" order="40.0">
+</entry>
+<entry name="DeferredTaxLiabilitiesNoncurrent" order="50.0">
+</entry>
+<entry name="OtherLiabilitiesAndDeferredIncome" color="red" order="60.0">
+</entry>
+<entry name="LiabilitiesNoncurrent" order="70.0">
+</entry>
+<entry name="StockholdersEquityIncludingPortionAttributableToNoncontrollingInterestAbstract" order="80.0">
+<entry name="PreferredStockValue" order="10.0">
+</entry>
+<entry name="CommonStockValue" order="20.0">
+</entry>
+<entry name="AdditionalPaidInCapitalCommonStock" order="30.0">
+</entry>
+<entry name="RetainedEarningsAccumulatedDeficit" order="40.0">
+</entry>
+<entry name="TreasuryStockValue" order="50.0">
+</entry>
+<entry name="AccumulatedOtherComprehensiveIncomeLossNetOfTax" order="60.0">
+</entry>
+<entry name="StockholdersEquity" order="70.0">
+</entry>
+<entry name="MinorityInterest" order="80.0">
+</entry>
+<entry name="StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest" order="90.0">
+</entry>
+</entry>
+<entry name="LiabilitiesAndStockholdersEquity" order="90.0">
+</entry>
+</entry>
+<entry name="NetCashProvidedByUsedInInvestingActivitiesAbstract" order="20.0">
+<entry name="PaymentsToAcquirePropertyPlantAndEquipment" order="10.0">
+</entry>
+<entry name="ProceedsFromSaleOfProductiveAssets" order="20.0">
+</entry>
+<entry name="ProceedsFromDivestitureOfBusinessesNetOfCashDivested" order="30.0">
+</entry>
+<entry name="ProceedsFromSaleOfAvailableForSaleSecuritiesEquity" order="40.0">
+</entry>
+<entry name="ProceedsFromDivestitureOfInterestInJointVenture" order="50.0">
+</entry>
+<entry name="PaymentsToAcquireEquityMethodInvestments" order="60.0">
+</entry>
+<entry name="ProceedsFromLeveragedLeases" color="red" order="70.0">
+</entry>
+<entry name="PaymentsForProceedsFromOtherInvestingActivities" order="80.0">
+</entry>
+<entry name="NetCashProvidedByUsedInInvestingActivities" order="90.0">
+</entry>
+<entry name="ProceedsFromDivestitureOfBusinesses" order="8000.0">
+</entry>
+</entry>
+<entry name="IncomeLossFromEquityMethodInvestments" order="30.0">
+</entry>
+<entry name="NetCashProvidedByUsedInFinancingActivitiesAbstract" order="30.0">
+<entry name="ProceedsFromShortTermDebt" order="10.0">
+</entry>
+<entry name="ReductionInBorrowings" color="red" order="20.0">
+</entry>
+<entry name="RepaymentsOfLongTermCapitalLeaseObligations" order="30.0">
+</entry>
+<entry name="RepaymentsOfConvertibleDebt" order="40.0">
+</entry>
+<entry name="PaymentsForRepurchaseOfCommonStock" order="50.0">
+</entry>
+<entry name="ProceedsFromStockOptionsExercised" order="60.0">
+</entry>
+<entry name="ExcessTaxBenefitFromShareBasedCompensationFinancingActivities" order="70.0">
+</entry>
+<entry name="ProceedsFromMinorityShareholders" order="80.0">
+</entry>
+<entry name="NetCashProvidedByUsedInFinancingActivities" order="90.0">
+</entry>
+</entry>
+<entry name="EffectOfExchangeRateOnCashAndCashEquivalents" order="40.0">
+</entry>
+<entry name="OperatingIncomeLossIncludingIncomeLossFromEquityMethodInvestments" color="red" order="40.0">
+</entry>
+<entry name="CashAndCashEquivalentsPeriodIncreaseDecrease" order="50.0">
+</entry>
+<entry name="GainsLossesOnExtinguishmentOfDebt" order="50.0">
+</entry>
+<entry name="CashAndCashEquivalentsAtCarryingValue_2" order="60.0">
+</entry>
+<entry name="InterestExpense" order="60.0">
+</entry>
+<entry name="CashAndCashEquivalentsAtCarryingValue" order="70.0">
+</entry>
+<entry name="InvestmentIncomeInterest" order="70.0">
+</entry>
+<entry name="GainLossOnInvestments" order="80.0">
+</entry>
+<entry name="IncomeLossFromContinuingOperationsBeforeIncomeTaxesAndMinorityInterest" color="red" order="90.0">
+</entry>
+<entry name="IncomeTaxExpenseBenefit" order="100.0">
+</entry>
+<entry name="IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest" order="110.0">
+</entry>
+<entry name="IncomeLossFromDiscontinuedOperationsNetOfTax" order="120.0">
+</entry>
+<entry name="ProfitLoss" order="130.0">
+</entry>
+<entry name="NetIncomeLossAttributableToNoncontrollingInterest" order="140.0">
+</entry>
+<entry name="NetIncomeLoss" order="150.0">
+</entry>
+<entry name="EarningsPerShareBasicAbstract" order="160.0">
+<entry name="IncomeLossFromContinuingOperationsPerBasicShare" order="10.0">
+</entry>
+<entry name="IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare" order="20.0">
+</entry>
+<entry name="EarningsPerShareBasic" order="30.0">
+</entry>
+</entry>
+<entry name="EarningsPerShareDilutedAbstract" order="170.0">
+<entry name="IncomeLossFromContinuingOperationsPerDilutedShare" order="10.0">
+</entry>
+<entry name="IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare" order="20.0">
+</entry>
+<entry name="EarningsPerShareDiluted" order="30.0">
+</entry>
+</entry>
+<entry name="WeightedAverageNumberOfSharesOutstandingBasic" order="180.0">
+</entry>
+<entry name="WeightedAverageNumberOfDilutedSharesOutstanding" order="190.0">
+</entry>
+<entry name="IncomeLossFromDiscontinuedOperationsNetOfTaxAbstract" order="8000.0">
+<entry name="DiscontinuedOperationIncomeLossFromDiscontinuedOperationDuringPhaseOutPeriodNetOfTax" order="8000.0">
+</entry>
+<entry name="DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax" order="8010.0">
+</entry>
+</entry>
+</entry>
+<entry name="StatementEquityComponentsAxis">
+<entry name="EquityComponentDomain" order="10.0">
+<entry name="ParentMember" order="10.0">
+<entry name="CommonStockMember" order="10.0">
+</entry>
+<entry name="AdditionalPaidInCapitalMember" order="20.0">
+</entry>
+<entry name="RetainedEarningsMember" order="30.0">
+</entry>
+<entry name="TreasuryStockMember" order="40.0">
+</entry>
+<entry name="AccumulatedOtherComprehensiveIncomeMember" order="50.0">
+</entry>
+</entry>
+<entry name="NoncontrollingInterestMember" order="20.0">
+</entry>
+</entry>
+</entry>
+<entry name="StatementScenarioAxis">
+<entry name="ScenarioUnspecifiedDomain" order="10.0">
+</entry>
+</entry>
+</xbrldata>

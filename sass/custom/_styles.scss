@@ -1,2 +1,11 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+.listsection {margin-left:-25px;padding:15px 0 10px 25px;border-top:1px solid #eee}
+.listsection h3{line-height:1.2em;margin-top:0;margin-bottom:0.4em}
+.listsection .soft{color:#666;width:48%}
+.listsection .soft.block{border-top:1px solid #eee;border-bottom:1px solid #eee;display:block;padding:3px 0;margin-bottom:1em}
+.listsection .footer{font-size:85%;line-height:1.5em}
+.listsection img{border:1px solid #ccc;background:#fff;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;padding:3px}
+.listsection .left{width:250px;height:170px}
+.listsection .right{width:100px}
