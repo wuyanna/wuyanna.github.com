@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://wuyanna.github.com
-title: Nana
-subtitle: Travel around the world
+url: http://wuyanna.github.io
+title: NaN
+subtitle: Compiling...
 author: Yanna
 simple_search: http://google.com/search
 description:
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: wuyanna
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true

@@ -5,5 +5,5 @@ comments: true
 sharing: true
 footer: true
 ---
-This summer for GSOC! Checkout the [posts]({{root_url}}/blog/categories/gsoc/)!
+I'm so obsessed with this [course](http://www.cs.cmu.edu/~fp/courses/15411-f13/index.html) that I cannot sleep.
 
