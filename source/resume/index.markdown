@@ -6,6 +6,6 @@ sharing: true
 footer: true
 ---
 
-###[Resume]({{ root_url }}/resume/myresume.html)
+###[Resume]({{ root_url }}/resume/myresume.pdf)
 
 ###[Personal Statement]({{ root_url }}/resume/sop.html)
