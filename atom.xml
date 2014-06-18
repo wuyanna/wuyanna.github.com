@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[NaN]]></title>
+  <link href="http://wuyanna.github.com/atom.xml" rel="self"/>
+  <link href="http://wuyanna.github.com/"/>
+  <updated>2014-06-17T23:20:27-07:00</updated>
+  <id>http://wuyanna.github.com/</id>
+  <author>
+    <name><![CDATA[Yanna]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[worldcup2014]]></title>
+    <link href="http://wuyanna.github.com/blog/2014/06/09/worldcup2014/"/>
+    <updated>2014-06-09T22:24:00-07:00</updated>
+    <id>http://wuyanna.github.com/blog/2014/06/09/worldcup2014</id>
+    <content type="html"><![CDATA[<p>World Cup 2014</p>
+
+<p>App Download</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Summer Has Gone. GSOC Ends.]]></title>
+    <link href="http://wuyanna.github.com/blog/2013/09/29/summer-has-gone/"/>
+    <updated>2013-09-29T23:09:00-07:00</updated>
+    <id>http://wuyanna.github.com/blog/2013/09/29/summer-has-gone</id>
+    <content type="html"><![CDATA[<h3>What was your most rewarding experience contributing to Mifos this summer?</h3>
+
+<p>Being a part of mifos community is amazing. I learned a lot from the code of MifosX and from my mentor. For example, my mentor taught me how to write unit tests with the help of some good tools and how test-driven development could make a difference on my code design. The final code review is also rewarding. I learned the importance of following code conventions, especially for open source projects. Besides that, experiencing how open source projects operate with contributors across the world is very interesting.</p>
+
+<h3>What was your biggest challenge you overcame this summer?</h3>
+
+<p>My summer schedule is little intense for me, but I managed to keep the work on track. The daily and weekly routines help me make progress everyday and eliminate procrastination.</p>
+
+<h3>What advice would give to other students/GSoC interns on working with Mifos?</h3>
+
+<p>The community is quick in response and willing to help. It also gives you a lot of freedom in doing your project. You will have the opportunity to present your work to a large group of Mifos users. Take ownership of your project and you will feel rewarded and accomplished in the end.</p>
+
+<h3>If you could visit the country of one of our Mifos users, where would it be and why?</h3>
+
+<p>If possible, I would love to visit my mentor&#8217;s home country, Ghana. There&#8217;s something interesting: when we had skype meetings, I could always hear the sounds of various animals, which interested me a lot. I think it is a great place to visit.</p>
+
+<h3>If you have time, how do you hope to contribute to Mifos in the future?</h3>
+
+<p>I would be glad to continue contribute to Mifos as a developer in the future.</p>
+
+<h3>What will you be doing now that Summer of Code is complete?</h3>
+
+<p>Focus on coursework.</p>
+
+<p><img src="http://wuyanna.github.com/images/me/motor.jpg" width="800" height="452"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Halfway Checkpoint of GSOC]]></title>
+    <link href="http://wuyanna.github.com/blog/2013/07/30/halfway-checkpoint-of-gsoc/"/>
+    <updated>2013-07-30T01:04:00-07:00</updated>
+    <id>http://wuyanna.github.com/blog/2013/07/30/halfway-checkpoint-of-gsoc</id>
+    <content type="html"><![CDATA[<p>Time passes really fast. The midterm evaluation starts. Good news is that everything goes on schedule. I just finished the server-side implementation of the XBRL reporting project as I planned in my proposal. Actually it was an unexpectedly busy summer. The school suggested us to finish a course during the summer and I need to pack my stuff and prepare for my move to Pittsburgh. The daily checkin kept me making progress every day even on a busy day.</p>
+
+<p>My mentor KOJO introduced test-driven development to me, which not only makes the code strictly follow the requirement but also helps the developers to think more about the modularized and decoupled patterns when designing code structures. We paired with each other on writing unit tests and integrationtests. The test tool Mockito is one of the neat things I&#8217;ve learned when pairing with KOJO. Sometimes test code can be hard to write because of all the dependencies a class has. That is where Mockito comes in, mocking the unrelevent dependencies so that you can focus on the method you test.</p>
+
+<p>Making good use of great open source building and managing tools is another secret to the make of a successful open source community. Mifos uses this fantastic tool Gradle to automate the building process. The convenience Gradle brought shocked me when I first built the mifosx server. And I knew more and more about its capability when getting a deeper look inside it. Other great tools like maven and flyway, even tomcat, that Mifos uses are integrated within gradle. It&#8217;s really like an all-in-one package.</p>
+
+<p>I am going to finish the client UI in the next half of gsoc. This means a switch from Java to less familiar Javascript. It is a challenge, but also a good oppportunity to learn about frontend developing.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[So This is how Mifos works]]></title>
+    <link href="http://wuyanna.github.com/blog/2013/06/18/so-this-is-how-mifos-works/"/>
+    <updated>2013-06-18T10:20:00-07:00</updated>
+    <id>http://wuyanna.github.com/blog/2013/06/18/so-this-is-how-mifos-works</id>
+    <content type="html"><![CDATA[<p>The team bounding period came to an end, and the coding starts! During these few weeks of formal participating in the team&#8217;s weekly routines, I was impressed by how efficient and organised the team worked. I once thought that since mifos, as any common open source community, does not make profit and give pays to contributors, there probably were just a few volunteers scattered all over the world making some commits based on their interest during their free time. I found I was totally wrong when having witnessed the team operating in such an ordered and methodical way.</p>
+
+<p>Using Git is no surprise. It is a great tool for collaboration, especially for open source projects. Project issues are tracked and managed by JIRA system. There are several volunteers testing the master branch code according to test cases every day and bugs are reported on JIRA with great details. Some bugs are assigned to specific person, some are left open to volunteers all over the world. I worked out several issues when I was applying for gsoc. The team&#8217;s immediate and careful responses were out of my expectation. That was also one of the most important reason that I chose mifos over other open source community.</p>
+
+<p>Each week we have a developer meeting or a user meeting. During the biweekly user meeting, a presentation was given by a volunteer on a wide range of topics from the scholar researches to product design and to user showcase. Many of the users are from Africa and Mideast. &#8216;Fighting against poverty&#8217; is not just a slogan, but what mifos is actually achieving. It is wonderful to work for such a community.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GSOC 2013 started. This summer rocks]]></title>
+    <link href="http://wuyanna.github.com/blog/2013/05/29/gsoc-2013-started-this-summer-rocks/"/>
+    <updated>2013-05-29T21:26:00-07:00</updated>
+    <id>http://wuyanna.github.com/blog/2013/05/29/gsoc-2013-started-this-summer-rocks</id>
+    <content type="html"><![CDATA[<p>It feels so good to be a part of this event. Coding, open source, Google, $, all sound so cool to me.;)</p>
+
+<p>The applying process is struggling at first. Choosing the right project to work on is never an easy job, but once I made up my mind, all I need to do is getting involved in the project.</p>
+
+<p>The open source community I joined is Mifos, a managing platform for microfinance institute. I&#8217;ve never heard of it before applying to gsoc, but it caught my eyes from a fairly long list of participating organizations because I was once so into finance at college. I read financial reports of listed companies and analyzed their k-chart. I even got the Certificate of Securities Qualifications. Let bygones be bygones. I started contributing to mifosx, and this community really surprised me. I felt respect, belongingness and ownership while participating in the community. In fact, it has far more volunteers around the world than I previously thought.</p>
+
+<p>The project I will work on is XBRL reporting integration. <a href="https://google-melange.appspot.com/gsoc/proposal/review/google/gsoc2013/wuyanna/1">Here</a>&#8217;s my proposal for the project.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gap Year]]></title>
+    <link href="http://wuyanna.github.com/blog/2012/09/29/gap-year/"/>
+    <updated>2012-09-29T21:35:00-07:00</updated>
+    <id>http://wuyanna.github.com/blog/2012/09/29/gap-year</id>
+    <content type="html"><![CDATA[<p>　　刚辞职的那段时间，心里总不踏实，患得患失的。现在我觉得这是开始追寻我的梦想的绝好机会。我终于可以没有顾虑的开始自己的事业。我可以自豪地向世界宣布，我的事业开始扬帆了，我是一名创业者，不过我还刚刚开始。</p>
+
+<p>　　这一年想做的事情有很多。两个游戏，一个网站。除此之外，还想去旅游，去美丽的地方住一段时间。年轻的时光不多了，怎么能把宝贵的时间耗费在别人的公司里呢？</p>
+
+<p>　　背上行囊，去探索世界。没有必要跟随别人的脚步。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Start Python]]></title>
+    <link href="http://wuyanna.github.com/blog/2012/09/29/start-python/"/>
+    <updated>2012-09-29T21:20:00-07:00</updated>
+    <id>http://wuyanna.github.com/blog/2012/09/29/start-python</id>
+    <content type="html"><![CDATA[<p>　　打算在GAE上做AppFactory网站，正好可以借此机会学习Python。也正好借着学习Python的机会把vim给学了一下。还不怎么习惯。Python以代码的易读性和编写的简单著称。OpenCourse里有一门Programming Paradigm介绍python，可以看一下。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello! My First Personal Blog]]></title>
+    <link href="http://wuyanna.github.com/blog/2012/09/24/hello-my-first-personal-blog/"/>
+    <updated>2012-09-24T01:11:00-07:00</updated>
+    <id>http://wuyanna.github.com/blog/2012/09/24/hello-my-first-personal-blog</id>
+    <content type="html"><![CDATA[<p>　　照着Octopress官网的教程搞了一晚上，期间在github密钥问题上耗了很长时间，因为这台电脑之前哥哥在用，所以要让他把这台电脑的key从他github账号里删了。哥哥死活不相信，搞了很久……不过终于好了，哈哈，我的第一个个人博客诞生了。</p>
+
+<p>　　虽然以前也没有什么写博客的习惯，最早在msn上写，然后在人人上写，qzone上写。不过一般都是隔了挺长时间，然后感慨一下。有了自己的博客后，我应该会好好珍惜爱护他的。<sup>_^</sup></p>
+]]></content>
+  </entry>
+  
+</feed>
